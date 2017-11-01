@@ -2,8 +2,10 @@ This registry setting config your UAC (User Account Control) to maximum level li
 Since Windows 7 Microsoft set this a level lower, because of stupid users.
 
 Go to
-HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\ConsentPromptBehaviorAdmin
-and set the string to
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\
+and set the string 
+ConsentPromptBehaviorAdmin
+to
 2
 
 Finish. No restart required. You can config this in Windows settings too.
