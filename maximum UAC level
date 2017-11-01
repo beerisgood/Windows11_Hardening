@@ -1,0 +1,9 @@
+This registry setting config your UAC (User Account Control) to maximum level like it was in Windows Vista by default.
+Since Windows 7 Microsoft set this a level lower, because of stupid users.
+
+Go to
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\ConsentPromptBehaviorAdmin
+and set the string to
+2
+
+Finish. No restart required. You can config this in Windows settings too.
