@@ -1,0 +1,17 @@
+On standard Windows settings, Malware can hide itself if the filename is like:
+Secure-File.txt.exe
+
+What you see? A file named
+Secure-File.txt
+
+Of course the attacker can add a differend icon to the file, so it looks like you open the file extension you think.
+And if you then open the file, its to late. See Crypto trojans
+
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+and change the string
+HideFileExt
+to
+00000000
+
+Finish. No restart required. You can config this in Windows explorersettings too.
