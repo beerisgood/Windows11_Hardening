@@ -1,0 +1,18 @@
+This registry setting disable Autorun & Autoplay.
+In the past that was abused by Malware.
+
+You then need to manual open new devices like connected USB drive. No popups opens automatically.
+
+
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+(create if not exist) a DWORD key named
+NoDriveTypeAutoRun
+and one named
+NoAutorun
+Then paste this value for NoDriveTypeAutoRun:
+000000b5
+And this for NoAutorun:
+00000001
+
+Finish. No restart required. You can config this in Windows settings too.
