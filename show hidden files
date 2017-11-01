@@ -1,0 +1,12 @@
+On standard Windows settings, Malware can hide itself and you will not found it.
+Thats because Windows dont show files which use the hidden flag, but you can change that.
+
+Note: This change dont reveal important Windows system files, like pagefile.sys
+
+
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+and change the string
+Hidden
+to
+00000001
