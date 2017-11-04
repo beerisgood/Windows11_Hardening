@@ -1,0 +1,11 @@
+Flash is a big security hole, so we disable it now.
+
+Go to
+HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\Addons
+and change the DWORD string
+FlashPlayerEnabled
+to
+0
+
+
+Finish. No restart required. You can config this in Edge settings too.
