@@ -1,0 +1,16 @@
+*From https://www.ghacks.net/2017/05/26/set-windows-defender-antivirus-blocking-to-high-on-windows-10/*
+
+    Tap on the Windows-key, type regedit.exe, and hit the Enter-key on the keyboard.
+    Confirm the UAC prompt. This opens the Windows Registry Editor.
+    Use the key hierarchy on the left to open HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows Defender.
+    Right-click on Windows Defender, and select New > Key.
+    Name the key Spynet.
+    Right-click on Spynet, and select New > Dword (32-bit) Value.
+    Name the value SpynetReporting.
+    Double-click on the new value to set its value to 2.
+    Go back to the path HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows Defender
+    Right-click on Windows Defender, and select New > Key.
+    Name the key MpEngine.
+    Right-click on the newly created MpEngine key, and select New > Dword (32-bit) Value.
+    Name the new value MpCloudBlockLevel.
+    Double-click on the value to set it to 2.
