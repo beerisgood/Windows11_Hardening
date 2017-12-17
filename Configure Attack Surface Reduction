@@ -1,0 +1,54 @@
+*From https://www.ghacks.net/2017/10/23/configure-attack-surface-reduction-in-windows-10/*
+
+The Attack Surface Reduction protection can be configured in three different ways:
+    Using Group Policy.
+    Using PowerShell.
+    Using MDM CSP.
+    
+Group Policy:
+    Tap on the Windows-key, type gpedit.msc and hit the Enter-key to start the Group Policy editor on Windows 10.
+    Navigate to Computer Configuration > Administrative Templates > Windows components > Windows Defender Antivirus > Windows Defender Exploit Guard > Attack Surface Reduction
+    Double-click on the policy "Configure Attack surface reduction rules".
+    Set the policy to enabled.
+    Setting the policy to enabled activates the "show" button. Click on show to load the "show contents" window.
+
+    Show contents is a table that accepts one Attack Surface Reduction rule per row.  Value name is the ID that is listed under rules above in the brackets.
+
+    Value accepts the following input:
+    0 = disabled. The rule is not active.
+    1 = enabled. The rule is active, and block mode is activated.
+    2 = audit mode. Events will be recorded, but the actual rule is not enforced.
+    
+PowerShell:
+    You may use PowerShell to configure rules.
+    Tap on the Windows-key, type PowerShell, hold down the Shift-key and the Ctrl-key, and load the PowerShell entry with a click.
+    Use the following command to add a blocking mode rule:
+    Set-MpPreference -AttackSurfaceReductionRules_Ids <rule ID> -AttackSurfaceReductionRules_Actions Enabled
+    
+    Use the following command to add an audit mode rule:
+    Set-MpPreference -AttackSurfaceReductionRules_Ids <rule ID> -AttackSurfaceReductionRules_Actions AuditMode
+
+    Use the following command to set a rule to disabled:
+    Set-MpPreference -AttackSurfaceReductionRules_Ids <rule ID> -AttackSurfaceReductionRules_Actions Disabled
+
+    You can combine multiple rules in a single command by separating each rule with a comma, and by listing states individually for each rule. Example:
+    Set-MpPreference -AttackSurfaceReductionRules_Ids <rule ID>, <rule ID 2>, <rule ID 3> -AttackSurfaceReductionRules_Actions Disabled, Enabled, Enabled
+
+    Note: you can use Set-MpPreference or Add-MpPreference. The Set command will always overwrite the existing set of rules while the Add command adds to it without overwriting existing rules.
+    You can display the set of rules using the Get-MpPreference command.
+    
+    
+You can exclude files or folders so that the excluded items are not evaluated by Attack Surface Reduction rules.
+
+Group Policy: Go to Computer configuration > Administrative templates > Windows components > Windows Defender Antivirus > Windows Defender Exploit Guard > Attack surface reduction > Exclude files and paths from Attack surface reduction Rules. Set the policy to enabled, click on the show button, and add files or folders (folder path or resource, e.g. c:\Windows in the value name, and 0 in the value field of each column.
+PowerShell: Use the command Add-MpPreference -AttackSurfaceReductionOnlyExclusions "<fully qualified path or resource>" to add files or folders to the exclusions list.
+
+
+more info:
+https://docs.microsoft.com/en-us/windows/threat-protection/windows-defender-exploit-guard/enable-attack-surface-reduction
+https://docs.microsoft.com/en-us/windows/threat-protection/windows-defender-exploit-guard/customize-attack-surface-reduction
+https://docs.microsoft.com/en-us/windows/threat-protection/windows-defender-exploit-guard/attack-surface-reduction-exploit-guard
+https://docs.microsoft.com/en-us/windows/threat-protection/windows-defender-exploit-guard/windows-defender-exploit-guard
+https://docs.microsoft.com/en-us/powershell/module/defender/set-mppreference?view=win10-ps
+https://docs.microsoft.com/en-us/powershell/module/defender/add-mppreference?view=win10-ps
+https://docs.microsoft.com/en-us/powershell/module/defender/get-mppreference?view=win10-ps
