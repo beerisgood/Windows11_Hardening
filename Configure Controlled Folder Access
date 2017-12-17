@@ -1,0 +1,15 @@
+*From https://www.ghacks.net/2017/10/24/configure-controlled-folder-access-in-windows-10/*
+
+    Use Windows-I to open the Settings application.
+    Select Update & Security > Windows Defender, and activate "Open Windows Defender Security Center".
+    Select Virus & threat protection when the new application window opens.
+    On the page that opens, select Virus & threat protection settings.
+    Make sure that real-time protection is enabled.
+    Locate Controlled Folder Access on the page, and switch its toggle to on.
+    
+    The list of folders that are protected by Controlled Folder Access is displayed when you click on the link. Windows Defender protects some folders automatically; these are:
+    User: Documents, Pictures, Videos, Music, Desktop, Favorites
+    Public: Documents, Pictures, Videos, Music, Desktop
+
+    You cannot remove these default folders, but you can add custom folder locations so that the added folders are protected by the security feature as well.
+    Click on "add a protected folder" to select a local folder and have it added to the protected folders listing.
