@@ -1,0 +1,13 @@
+*For a complete list with comments and different settings, visit http://www.blackviper.com/service-configurations/black-vipers-windows-10-service-configurations/*
+
+Search at Windows start menu for services and stop & disable:
+
+ActiveX Installer [AxInstSV]
+Remote Access Auto Connection Manager [RasAuto]
+Remote Access Connection Manager [RasMan]
+Remote Desktop Configuration [SessionEnv]
+Remote Desktop Services [TermService]
+Remote Desktop Services UserMode Port Redirector [UmRdpService]
+Remote Procedure Call (RPC) Locator [RpcLocator]
+Remote Registry [RemoteRegistry]
+TCP/IP NetBIOS Helper [lmhosts]
