@@ -1,0 +1,10 @@
+Distributed COM (or DCOM)
+
+Start button
+  All apps
+    Windows Administrative tools
+      Component Services
+        Computers
+          right click on My Computer; choose Properties.
+            Go to Default Protocols tab
+              Under DCOM protocols, remove Connection oriented TCP/IP.
