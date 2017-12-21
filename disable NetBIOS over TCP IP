@@ -1,0 +1,8 @@
+Go to Control Panel\Network and Sharing Center\Change Adapter Settings
+
+  Right click on Local Area Connection, choose Properties\
+
+    Select 'Internet Protocol version 4 (TCP IPv4), click Properties, click Advanced, click 'WINS' tab, select 'Disable NETBIOS over TCP/IP' 
+    
+    
+Do this for every network adapter you have.    
