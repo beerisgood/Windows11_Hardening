@@ -1,0 +1,9 @@
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\MpEngine
+and add/ change the DWORD string
+MpEnablePus
+to
+1
+
+
+Finish. No reboot required.
