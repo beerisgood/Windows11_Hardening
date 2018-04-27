@@ -6,4 +6,10 @@ to
 1
 
 
+Or enter this command in powershell, started with admin rights:
+Set-MpPreference -PUAProtection Enabled
+
+
 Finish. No reboot required.
+
+Here a test site from Microsoft: https://demo.wd.microsoft.com/Page/PUA
