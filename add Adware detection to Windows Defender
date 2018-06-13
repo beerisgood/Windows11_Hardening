@@ -13,3 +13,4 @@ Set-MpPreference -PUAProtection Enabled
 Finish. No reboot required.
 
 Here a test site from Microsoft: https://demo.wd.microsoft.com/Page/PUA
+and here another test site: https://www.amtso.org/feature-settings-check-potentially-unwanted-applications/ (click on green "Download the Potentially Unwanted Application ‘test’ file…")
