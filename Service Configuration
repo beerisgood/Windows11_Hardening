@@ -3,6 +3,7 @@
 Search at Windows start menu for services and stop & disable:
 
 ActiveX Installer [AxInstSV]
+Microsoft iSCSI Initiator Service [MSiSCSI]
 Remote Access Auto Connection Manager [RasAuto]
 Remote Access Connection Manager [RasMan]
 Remote Desktop Configuration [SessionEnv]
@@ -10,4 +11,6 @@ Remote Desktop Services [TermService]
 Remote Desktop Services UserMode Port Redirector [UmRdpService]
 Remote Procedure Call (RPC) Locator [RpcLocator]
 Remote Registry [RemoteRegistry]
+SNMP Trap [SNMPTRAP]
 TCP/IP NetBIOS Helper [lmhosts]
+Windows Remote Management (WS-Management) [WinRM]
