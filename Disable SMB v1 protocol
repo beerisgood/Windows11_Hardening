@@ -3,5 +3,12 @@ Even Microsoft say it isn’t safe: https://blogs.technet.microsoft.com/filecab/
 
 Go to Control Panel > Programs and Features > Turn Windows Features on or off. Uncheckmark SMB 1.0/CIFS File Sharing Support
 
+Or run this command in with adminrights started powershell:
+Disable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
 
 Reboot.
+
+To test if SMB1 is active, run this powershell command:
+Get-WindowsOptionalFeature –Online –FeatureName SMB1Protocol
+
+More infos: https://support.microsoft.com/en-us/help/2696547/how-to-detect-enable-and-disable-smbv1-smbv2-and-smbv3-in-windows-and
