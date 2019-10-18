@@ -2,6 +2,9 @@
 
 This is my guide for Security Hardening under Windows 10 x64
 
+
+**Work in progress / rebuild**
+
 Also see: https://blogs.technet.microsoft.com/secguide/2018/04/30/security-baseline-for-windows-10-april-2018-update-v1803-final/ & https://github.com/nsacyber/Windows-Secure-Host-Baseline/blob/master/Windows/README.md
 
 Needed Windows Defender Connections: https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-network-connections-windows-defender-antivirus
