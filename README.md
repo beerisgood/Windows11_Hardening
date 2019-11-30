@@ -15,7 +15,7 @@
 <br />
 Read stuff:
 
-Needed Windows Defender Connections: https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-network-connections-windows-defender-antivirus
+Needed Windows Defender Connections: https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-network-connections-windows-defender-antivirus & https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/configure-proxy-internet#verify-client-connectivity-to-microsoft-defender-atp-service-urls
 
 Take a look at this awesome tools: https://github.com/AndyFul/Hard_Configurator & https://github.com/securitywithoutborders/hardentools
 
