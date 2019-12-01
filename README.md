@@ -39,6 +39,7 @@ Any help is welcome**!
 - https://demo.wd.microsoft.com/
 - [Validate connections](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-network-connections-windows-defender-antivirus#validate-connections-between-your-network-and-the-cloud) between your network and the Windows Defender Antivirus cloud service
 - [Validate](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Tamper-protection-now-generally-available-for-Microsoft-Defender/ba-p/911482) Windows Defender Tamper protection
+- Windows Defender SmartScreen [Demo Pages](https://demo.smartscreen.msft.net/)
 
 <br />
 
