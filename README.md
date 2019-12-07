@@ -40,21 +40,18 @@ Any help is welcome**!
 <br />
 
 ###### Test Config
-- https://demo.wd.microsoft.com/
 - [Validate connections](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-network-connections-windows-defender-antivirus#validate-connections-between-your-network-and-the-cloud) between your network and the Windows Defender Antivirus cloud service
+- [Verify client connectivity](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/configure-proxy-internet#verify-client-connectivity-to-microsoft-defender-atp-service-urls) to Microsoft Defender ATP service URLs
 - [Validate](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Tamper-protection-now-generally-available-for-Microsoft-Defender/ba-p/911482) Windows Defender Tamper protection
+- Windows Defender [Testground](https://demo.wd.microsoft.com/)
 - Windows Defender SmartScreen [Demo Pages](https://demo.smartscreen.msft.net/)
 
 <br />
 
 ###### Read stuff:
 
-Needed Windows Defender Connections: https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-network-connections-windows-defender-antivirus & https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/configure-proxy-internet#verify-client-connectivity-to-microsoft-defender-atp-service-urls
 
-Take a look at this awesome tools: https://github.com/AndyFul/Hard_Configurator & https://github.com/securitywithoutborders/hardentools
-
-Not realy hardening related stuff:
-https://github.com/frizb/Windows-Privilege-Escalation & https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+[*awesome tool*](https://github.com/AndyFul/Hard_Configurator)
 
 <br />
 All my commits are signed with my GPG Key:
