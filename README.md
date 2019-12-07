@@ -49,6 +49,7 @@ Any help is welcome**!
 ###### Reading Material:
 * https://github.com/frizb/Windows-Privilege-Escalation
 * https://github.com/LOLBAS-Project/LOLBAS
+* https://github.com/api0cradle/UltimateAppLockerByPassList
 
 [*awesome tool*](https://github.com/AndyFul/Hard_Configurator)
 
