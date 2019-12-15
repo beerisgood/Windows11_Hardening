@@ -3,12 +3,12 @@ Any help is welcome**!
 <br />
 
 # Requirements
-- [x] Always use latest [Windows 10 stable version](https://www.microsoft.com/en-us/software-download/windows10)
-- [x] Always keep your System [up2date](https://support.microsoft.com/en-gb/help/4027667/windows-10-update)
-- [x] Use (default activated) internal Windows Defender protection instead of external "Security" solutions
-- [x] Check regular for new Driver and Program updates **&** install them
-- [x] Avoid any "Tuning" tools
-- [x] Only use/ install tools which you realy need
+- [x] Latest [Windows 10 stable version](https://www.microsoft.com/en-us/software-download/windows10)
+- [x] System [up2date](https://support.microsoft.com/en-gb/help/4027667/windows-10-update)
+- [x] (default activated) internal Windows Defender protection instead of external "Security" solutions
+- [x] Latest Driver and Program updates
+- [x] No "Tuning" tools
+- [x] Only necessary tools which you realy need
 - [x] [Hardware Requirements](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/system-guard-secure-launch-and-smm-protection#requirements-met-by-system-guard-enabled-machines) for [System Guard](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/system-guard-how-hardware-based-root-of-trust-helps-protect-windows) / [Hardware-based Isolation](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/overview-hardware-based-isolation)
 - [x] [Hardware Requirements](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/requirements-and-deployment-planning-guidelines-for-virtualization-based-protection-of-code-integrity#baseline-protections) for [Memory integrity](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/memory-integrity)
 
