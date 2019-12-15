@@ -46,6 +46,7 @@ Any help is welcome**!
 - [Confirm and validate](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-block-at-first-sight-windows-defender-antivirus#confirm-block-at-first-sight-is-enabled-with-the-windows-security-app) that Defender "block at first sight" is enabled
 - Windows Defender [Testground](https://demo.wd.microsoft.com/)
 - Windows Defender SmartScreen [Demo Pages](https://demo.smartscreen.msft.net/)
+- Validate your [Kernel DMA Protection](https://docs.microsoft.com/en-us/windows/security/information-protection/kernel-dma-protection-for-thunderbolt#how-to-check-if-kernel-dma-protection-is-enabled)
 
 <br />
 
