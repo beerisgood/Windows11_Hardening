@@ -2,6 +2,8 @@
 Any help is welcome**!
 <br />
 
+TL;DR: This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) do nearly all stuff listed here
+
 # Requirements
 - [x] [Standards](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure) for a highly secure Windows 10 device
 - [x] Latest [Windows 10 stable version](https://www.microsoft.com/en-us/software-download/windows10)
@@ -60,7 +62,6 @@ Any help is welcome**!
 * https://github.com/api0cradle/UltimateAppLockerByPassList
 * https://trustedwindows.wordpress.com/
 
-[*awesome tool*](https://github.com/AndyFul/Hard_Configurator)
 
 <br />
 All my commits are signed with my GPG Key:
