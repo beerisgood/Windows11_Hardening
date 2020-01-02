@@ -2,7 +2,7 @@
 Any help is welcome**!
 <br />
 
-TL;DR: This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) do nearly all stuff listed here
+TL;DR: This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) do a lot stuff listed here
 
 # Requirements
 - [x] [Standards](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure) for a highly secure Windows 10 device
