@@ -4,6 +4,8 @@ Any help is welcome**!
 
 TL;DR: This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) do a lot stuff listed here
 
+The Windows 10 [Secured-core PCs](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure) are also best start
+
 # Requirements
 - [x] [Standards](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure) for a highly secure Windows 10 device
 - [x] Latest [Windows 10 stable version](https://www.microsoft.com/en-us/software-download/windows10)
