@@ -65,6 +65,7 @@ The Windows 10 [Secured-core PCs](https://docs.microsoft.com/en-us/windows-hardw
 * https://github.com/api0cradle/UltimateAppLockerByPassList
 * https://trustedwindows.wordpress.com/
 * https://docs.microsoft.com/en-us/windows-hardware/drivers/install/early-launch-antimalware
+* https://www.microsoft.com/en-us/msrc/windows-security-servicing-criteria
 
 
 <br />
