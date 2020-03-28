@@ -1,8 +1,0 @@
-*From https://www.ghacks.net/2017/10/26/configure-windows-defender-network-protection-in-windows-10/*
-
-Using PowerShell:
-    Tap on the Windows-key, type PowerShell, hold down the Shift-key and the Ctrl-key, and select PowerShell from the results to open a PowerShell interface with administrative privileges.
-    Set-MpPreference -EnableNetworkProtection Enabled
-
-
-Here a testsite from Microsoft: https://demo.wd.microsoft.com/Page/NP
