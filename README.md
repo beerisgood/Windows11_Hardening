@@ -21,7 +21,6 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 ## Hardening
 - [x] set User Account Control ([UAC](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview)) to [maximum](https://github.com/beerisgood/Windows10_Hardening/blob/master/maximum%20UAC%20level)
 - [x] Always [display](https://github.com/beerisgood/Windows10_Hardening/blob/master/always%20display%20file%20typ%20extension) file type extension
-
 - [x] Deploy latest [Microsoft Security Baseline](https://www.microsoft.com/en-us/download/details.aspx?id=55319) and keep it up2date
 - [x] Install [Windows Defender Application Guard](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-guard/install-wd-app-guard#install-application-guard) (WDAG)
 - [x] Enable [Memory integrity](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/enable-virtualization-based-protection-of-code-integrity#how-to-turn-on-hvci-in-windows-10) (HVCI)
