@@ -1,9 +1,0 @@
-Windows Defender SmartScreen events appear in the Microsoft-Windows-SmartScreen/Debug log in Event Viewer.
-
-
-Windows event log for SmartScreen is disabled by default
-but user can use Event Viewer to enable the log - or use this command to enable it:
-wevtutil sl Microsoft-Windows-SmartScreen/Debug /e:true
-
-
-Source: https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-smartscreen/windows-defender-smartscreen-overview#viewing-windows-event-logs-for-windows-defender-smartscreen
