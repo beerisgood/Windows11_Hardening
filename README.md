@@ -66,6 +66,7 @@ Here now Windows internal Hardening features:
 * https://trustedwindows.wordpress.com/
 * https://docs.microsoft.com/en-us/windows-hardware/drivers/install/early-launch-antimalware
 * https://www.microsoft.com/en-us/msrc/windows-security-servicing-criteria
+* https://docs.microsoft.com/en-us/windows/security/threat-protection/overview-of-threat-mitigations-in-windows-10
 
 
 <br />
