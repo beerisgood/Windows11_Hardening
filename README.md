@@ -6,6 +6,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 
 
 # Requirements
+- [x] Always [display](https://github.com/beerisgood/Windows10_Hardening/blob/master/always%20display%20file%20typ%20extension) file type extension
 - [x] [Standards](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure) for a highly secure Windows 10 device
 - [x] Latest [Windows 10 stable version](https://www.microsoft.com/en-us/software-download/windows10)
 - [x] System [up2date](https://support.microsoft.com/en-gb/help/4027667/windows-10-update)
