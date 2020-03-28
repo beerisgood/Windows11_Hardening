@@ -1,8 +1,7 @@
-!**Work in progress / rebuild<br />
-Any help is welcome**!
-<br />
-
 This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly recommend
+
+
+Here now Windows internal Hardening features:
 
 
 # Requirements
