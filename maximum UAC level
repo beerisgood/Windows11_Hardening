@@ -1,11 +1,10 @@
-This registry setting config your UAC (User Account Control) to maximum level like it was in Windows Vista by default.
-Since Windows 7 Microsoft set this a level lower, because of stupid users.
+This registry setting config your UAC (User Account Control) to maximum level.
 
-Go to
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\
-and set the string 
-ConsentPromptBehaviorAdmin
-to
-2
+In Windows startmenu search for
+UAC
+and move the slider to top.
 
-Finish. No restart required. You can config this in Windows settings too.
+No restart required.
+
+Info:
+https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-group-policy-and-registry-key-settings#registry-key-settings
