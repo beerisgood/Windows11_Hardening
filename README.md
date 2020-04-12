@@ -49,6 +49,7 @@ Here now Windows internal Hardening features:
 - [ ] [Application Control](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/windows-defender-application-control) (WDAC)
 - [ ] [Enterprise Certificate Pinning](https://docs.microsoft.com/en-us/windows/access-protection/enterprise-certificate-pinning)
 - [ ] [Block untrusted fonts in an enterprise](https://docs.microsoft.com/en-us/windows/threat-protection/block-untrusted-fonts-in-enterprise)
+- [ ] [Protect](https://docs.microsoft.com/en-us/windows/security/identity-protection/remote-credential-guard) Remote Desktop credentials with Windows Defender Remote Credential Guard
 
 <br />
 
