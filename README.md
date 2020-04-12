@@ -20,7 +20,7 @@ Here now Windows internal Hardening features:
 ## Hardening
 - [x] set User Account Control ([UAC](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview)) to [maximum](https://github.com/beerisgood/Windows10_Hardening/blob/master/maximum%20UAC%20level)
 - [x] Always [display](https://github.com/beerisgood/Windows10_Hardening/blob/master/always%20display%20file%20typ%20extension) file type extension
-- [x] Deploy [Windows Security Baselines](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-baselines) and keep it [up2date](https://www.microsoft.com/en-us/download/details.aspx?id=55319)
+
 - [x] Install [Windows Defender Application Guard](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-guard/install-wd-app-guard#install-application-guard) (WDAG)
 - [x] Enable [Memory integrity](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/enable-virtualization-based-protection-of-code-integrity#how-to-turn-on-hvci-in-windows-10) (HVCI)
 - [x] [Enable](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/enable-network-protection#powershell) Network Protection ([NP](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/network-protection))
@@ -43,6 +43,7 @@ Here now Windows internal Hardening features:
 - [ ] Control [USB devices and other removable media](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-control/control-usb-devices-using-intune)
 - [ ] UEFI Hardening (NSA Defensive Practices Guidance) [PDF](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-uefi-defensive-practices-guidance.pdf)
 - [ ] Hardware and Firmware Security Guidance for [Windows](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/tree/master/guidance#win) & [AMD CPUs](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/tree/master/guidance#54-amd) - for other see the [overview](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/tree/master/guidance)
+- [ ] Deploy [Windows Security Baselines](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-baselines) and keep it [up2date](https://www.microsoft.com/en-us/download/details.aspx?id=55319)
 
 ### For Enterprise/ Company only
 - [ ] [Application Control](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/windows-defender-application-control) (WDAC)
