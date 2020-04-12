@@ -62,6 +62,7 @@ Here now Windows internal Hardening features:
 <br />
 
 ###### Reading Material:
+* https://github.com/stoptracking/windows10
 * https://github.com/frizb/Windows-Privilege-Escalation
 * https://github.com/LOLBAS-Project/LOLBAS
 * https://github.com/api0cradle/UltimateAppLockerByPassList
