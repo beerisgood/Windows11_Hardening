@@ -64,6 +64,7 @@ Here now Windows internal Hardening features:
 - Windows Defender [Testground](https://demo.wd.microsoft.com/)
 - Windows Defender SmartScreen [Demo Pages](https://demo.smartscreen.msft.net/)
 - Validate your [Kernel DMA Protection](https://docs.microsoft.com/en-us/windows/security/information-protection/kernel-dma-protection-for-thunderbolt#how-to-check-if-kernel-dma-protection-is-enabled)
+- [Test](https://malwaretips.com/threads/configuredefender-utility-for-windows-10.79039/page-37#post-837024) your Antimalware Scan Interface ([AMSI](https://docs.microsoft.com/en-us/windows/win32/amsi/antimalware-scan-interface-portal))
 
 <br />
 
