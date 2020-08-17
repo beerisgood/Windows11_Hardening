@@ -1,7 +1,5 @@
 This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly recommend
 
-Here now Windows internal Hardening features:
-
 
 # Requirements
 - [x] [Standards](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure) for a highly secure Windows 10 device
@@ -78,11 +76,3 @@ Here now Windows internal Hardening features:
 * https://docs.microsoft.com/en-us/windows-hardware/drivers/install/early-launch-antimalware
 * https://www.microsoft.com/en-us/msrc/windows-security-servicing-criteria
 * https://docs.microsoft.com/en-us/windows/security/threat-protection/overview-of-threat-mitigations-in-windows-10
-
-
-<br />
-All my commits are signed with my GPG Key:
-
-ID 4AEE18F83AFDEB23 (0x620F071D)
-<br />
-Fingerprint: 3D3AA8EA763AA97DA252071497F9E213620F071D
