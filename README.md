@@ -76,3 +76,4 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * https://www.microsoft.com/en-us/msrc/windows-security-servicing-criteria
 * https://docs.microsoft.com/en-us/windows/security/threat-protection/overview-of-threat-mitigations-in-windows-10
 * https://docs.microsoft.com/en-us/windows/security/
+* a [picture](https://www.microsoft.com/security/blog/wp-content/uploads/2020/08/fig1-pair-of-AMSI-machine-learning-models.png) about Microsoft Defender local and cloud script [protection](https://www.microsoft.com/security/blog/2020/08/27/stopping-active-directory-attacks-and-other-post-exploitation-behavior-with-amsi-and-machine-learning/)
