@@ -16,6 +16,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 
 ## Hardening
 - [x] set User Account Control ([UAC](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview)) to [maximum](https://github.com/beerisgood/Windows10_Hardening/blob/master/maximum%20UAC%20level)
+- [x] use Software Restriction Policies ([SRP](https://github.com/beerisgood/Windows10_Hardening/blob/master/Software%20Restriction%20Policies)) with a default-deny mode
 - [x] use Defender [Firewall with Advanced Security](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/windows-firewall-with-advanced-security)
 - [x] Always [display](https://github.com/beerisgood/Windows10_Hardening/blob/master/always%20display%20file%20typ%20extension) file type extension
 - [x] [Manage](https://docs.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-manage) Windows Defender [Credential Guard](https://docs.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard)
