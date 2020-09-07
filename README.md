@@ -78,3 +78,8 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * https://docs.microsoft.com/en-us/windows/security/threat-protection/overview-of-threat-mitigations-in-windows-10
 * https://docs.microsoft.com/en-us/windows/security/
 * a [picture](https://www.microsoft.com/security/blog/wp-content/uploads/2020/08/fig1-pair-of-AMSI-machine-learning-models.png) about Microsoft Defender local and cloud script [protection](https://www.microsoft.com/security/blog/2020/08/27/stopping-active-directory-attacks-and-other-post-exploitation-behavior-with-amsi-and-machine-learning/)
+* [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP2/SiSyPHuS_AP2_node.html) of Windows 10 - OS Architecture
+* [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP5/SiSyPHuS_AP5_node.html) of TPM Integration and UEFI "Secure Boot" in Windows 10
+* [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP6/SiSyPHuS_AP6_node.html) of Virtual Secure Mode
+* [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP7/SiSyPHuS_AP7_node.html) of Device Guard
+* [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP8/SiSyPHuS_AP8_node.html) of Powershell and Windows Script Host
