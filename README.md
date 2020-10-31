@@ -79,6 +79,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * https://docs.microsoft.com/en-us/windows/security/
 * a [picture](https://www.microsoft.com/security/blog/wp-content/uploads/2020/08/fig1-pair-of-AMSI-machine-learning-models.png) about Microsoft Defender local and cloud script [protection](https://www.microsoft.com/security/blog/2020/08/27/stopping-active-directory-attacks-and-other-post-exploitation-behavior-with-amsi-and-machine-learning/)
 * Security Unlocked - The Microsoft Security [Podcast](https://securityunlockedpodcast.com/)
+* How the hell WD works on Windows Home & Pro [documentation](https://malwaretips.com/threads/how-the-hell-wd-works-on-windows-home-pro.95146/) from [AndyFul](https://github.com/AndyFul)
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP2/SiSyPHuS_AP2_node.html) of Windows 10 - OS Architecture
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP5/SiSyPHuS_AP5_node.html) of TPM Integration and UEFI "Secure Boot" in Windows 10
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP6/SiSyPHuS_AP6_node.html) of Virtual Secure Mode
