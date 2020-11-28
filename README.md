@@ -51,6 +51,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 - [ ] [Web protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/web-protection-overview)
 - [ ] [Protect](https://docs.microsoft.com/en-us/windows/security/identity-protection/remote-credential-guard) Remote Desktop credentials with Windows Defender Remote Credential Guard
 - [ ] [Manage](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-manage-in-organization) Windows [Hello for Business](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-identity-verification)
+- [ ] [Protect](https://attack.mitre.org/techniques/T1574/001/) against [DLL Search Order Hijacking](https://en.wikipedia.org/wiki/Dynamic-link_library#DLL_hijacking)
 
 <br />
 
