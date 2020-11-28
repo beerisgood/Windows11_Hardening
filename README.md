@@ -80,6 +80,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * a [picture](https://www.microsoft.com/security/blog/wp-content/uploads/2020/08/fig1-pair-of-AMSI-machine-learning-models.png) about Microsoft Defender local and cloud script [protection](https://www.microsoft.com/security/blog/2020/08/27/stopping-active-directory-attacks-and-other-post-exploitation-behavior-with-amsi-and-machine-learning/)
 * Security Unlocked - The Microsoft Security [Podcast](https://securityunlockedpodcast.com/)
 * How the hell WD works on Windows Home & Pro [documentation](https://malwaretips.com/threads/how-the-hell-wd-works-on-windows-home-pro.95146/) from [AndyFul](https://github.com/AndyFul)
+* [Windows AppContainer Isolation - what it does?](https://malwaretips.com/threads/windows-appcontainer-isolation-what-it-does.90395/#post-797216) from AndyFul
 * [Get to know](https://www.microsoft.com/security/blog/2019/06/24/inside-out-get-to-know-the-advanced-technologies-at-the-core-of-microsoft-defender-atp-next-generation-protection/) the advanced technologies at the core of Microsoft Defender ATP next generation protection
 * Windows Defender Application Control (WDAC) [Resources](https://medium.com/@mattifestation/windows-defender-application-control-wdac-resources-9cad7026a943)
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP2/SiSyPHuS_AP2_node.html) of Windows 10 - OS Architecture
