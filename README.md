@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Windows10_Hardening?label=last%20update%3A)
+
 This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly recommend
 
 
