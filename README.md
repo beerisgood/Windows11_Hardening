@@ -81,6 +81,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * https://docs.microsoft.com/en-us/windows/security/threat-protection/overview-of-threat-mitigations-in-windows-10
 * https://docs.microsoft.com/en-us/windows/security/
 * a [picture](https://www.microsoft.com/security/blog/wp-content/uploads/2020/08/fig1-pair-of-AMSI-machine-learning-models.png) about Microsoft Defender local and cloud script [protection](https://www.microsoft.com/security/blog/2020/08/27/stopping-active-directory-attacks-and-other-post-exploitation-behavior-with-amsi-and-machine-learning/)
+* a [picture](https://raw.githubusercontent.com/beerisgood/Windows10_Hardening/master/Attack%20Surface%20Reduction%20(ASR)%20Rules.png) about Attack Surface Reduction (ASR) Rules
 * Security Unlocked - The Microsoft Security [Podcast](https://securityunlockedpodcast.com/)
 * How the hell WD works on Windows Home & Pro [documentation](https://malwaretips.com/threads/how-the-hell-wd-works-on-windows-home-pro.95146/) from [AndyFul](https://github.com/AndyFul)
 * [Windows AppContainer Isolation - what it does?](https://malwaretips.com/threads/windows-appcontainer-isolation-what-it-does.90395/#post-797216) from AndyFul
