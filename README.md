@@ -89,6 +89,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * Windows Defender Application Control (WDAC) [Resources](https://medium.com/@mattifestation/windows-defender-application-control-wdac-resources-9cad7026a943)
 * Why UAC is important at maximum (not default) level: [1](https://www.bleepingcomputer.com/news/security/trickbot-now-uses-a-windows-10-uac-bypass-to-evade-detection/), [2](https://www.bleepingcomputer.com/news/security/trickbot-uses-a-new-windows-10-uac-bypass-to-launch-quietly/), [3](https://www.fortinet.com/blog/threat-research/offense-and-defense-a-tale-of-two-sides-bypass-uac), [4](https://www.bleepingcomputer.com/news/security/bypassing-windows-10-uac-with-mock-folders-and-dll-hijacking/), ..
 * [Testing DLL Search Order Hijacking against security features](https://malwaretips.com/threads/testing-dll-search-order-hijacking-against-security-features.101171/) from AndyFul
+* Some info about [training AMSI machine learning models](https://malwaretips.com/threads/how-the-hell-wd-works-on-windows-home-pro.95146/page-4#post-935244) from AndyFul
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP2/SiSyPHuS_AP2_node.html) of Windows 10 - OS Architecture
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP5/SiSyPHuS_AP5_node.html) of TPM Integration and UEFI "Secure Boot" in Windows 10
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP6/SiSyPHuS_AP6_node.html) of Virtual Secure Mode
