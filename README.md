@@ -67,6 +67,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 - Validate your [Kernel DMA Protection](https://docs.microsoft.com/en-us/windows/security/information-protection/kernel-dma-protection-for-thunderbolt#how-to-check-if-kernel-dma-protection-is-enabled)
 - [Test](https://malwaretips.com/threads/configuredefender-utility-for-windows-10.79039/page-37#post-837024) your Antimalware Scan Interface ([AMSI](https://docs.microsoft.com/en-us/windows/win32/amsi/antimalware-scan-interface-portal))
 - [Test](https://smartscreentestratings2.net/) your Network protection
+- [Changelogs](https://www.microsoft.com/en-us/wdsi/definitions/antimalware-definition-release-notes) for Defender security intelligence updates
 
 <br />
 
