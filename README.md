@@ -92,6 +92,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * Some info about [training AMSI machine learning models](https://malwaretips.com/threads/how-the-hell-wd-works-on-windows-home-pro.95146/page-4#post-935244) from AndyFul
 * Cheap sandboxing with AppContainers [Blog](https://blahcat.github.io/2020/12/30/cheap_sandboxing_with_appcontainers/)
 * Meet the Microsoft Pluton processor – The security chip designed for the future of Windows PCs [Blog](https://www.microsoft.com/security/blog/2020/11/17/meet-the-microsoft-pluton-processor-the-security-chip-designed-for-the-future-of-windows-pcs/)
+* [Complete W^X implementation](https://blogs.windows.com/msedgedev/2017/02/23/mitigating-arbitrary-native-code-execution/) in Windows
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP2/SiSyPHuS_AP2_node.html) of Windows 10 - OS Architecture
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP5/SiSyPHuS_AP5_node.html) of TPM Integration and UEFI "Secure Boot" in Windows 10
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP6/SiSyPHuS_AP6_node.html) of Virtual Secure Mode
