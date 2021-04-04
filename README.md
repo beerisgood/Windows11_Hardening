@@ -72,7 +72,6 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 <br />
 
 ###### Reading Material:
-* https://github.com/stoptracking/windows10
 * https://github.com/frizb/Windows-Privilege-Escalation
 * https://github.com/LOLBAS-Project/LOLBAS
 * https://github.com/api0cradle/UltimateAppLockerByPassList
