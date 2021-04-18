@@ -39,7 +39,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 
 ### Further Hardening
 - [ ] Specify the [cloud-delivered protection level](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/specify-cloud-protection-level-windows-defender-antivirus#use-group-policy-to-specify-the-level-of-cloud-delivered-protection)
-- [ ] [Configure](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection#windows-security-app) Exploit [Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/exploit-protection)
+- [ ] [Configure](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection#windows-security-app) Exploit [Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/exploit-protection), like Edge 90+ with [enforced CET](https://techcommunity.microsoft.com/t5/windows-kernel-internals/developer-guidance-for-hardware-enforced-stack-protection/ba-p/2163340#toc-hId--1650725290)
 - [ ] Microsoft [recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
 - [ ] Control [USB devices and other removable media](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-control/control-usb-devices-using-intune)
 - [ ] UEFI Hardening (NSA Defensive Practices Guidance) [PDF](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-uefi-defensive-practices-guidance.pdf) & Hardware-and-Firmware-Security-[Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance)
@@ -93,6 +93,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * Cheap sandboxing with AppContainers [Blog](https://blahcat.github.io/2020/12/30/cheap_sandboxing_with_appcontainers/)
 * Meet the Microsoft Pluton processor – The security chip designed for the future of Windows PCs [Blog](https://www.microsoft.com/security/blog/2020/11/17/meet-the-microsoft-pluton-processor-the-security-chip-designed-for-the-future-of-windows-pcs/)
 * Complete W^X implementation in Windows with [ACG](https://blogs.windows.com/msedgedev/2017/02/23/mitigating-arbitrary-native-code-execution/)
+* Understanding [Hardware-enforced Stack Protection](https://techcommunity.microsoft.com/t5/windows-kernel-internals/understanding-hardware-enforced-stack-protection/ba-p/1247815) (CET)
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP2/SiSyPHuS_AP2_node.html) of Windows 10 - OS Architecture
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP5/SiSyPHuS_AP5_node.html) of TPM Integration and UEFI "Secure Boot" in Windows 10
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP6/SiSyPHuS_AP6_node.html) of Virtual Secure Mode
