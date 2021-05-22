@@ -69,6 +69,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 - [Test](https://malwaretips.com/threads/configuredefender-utility-for-windows-10.79039/page-37#post-837024) your Antimalware Scan Interface ([AMSI](https://docs.microsoft.com/en-us/windows/win32/amsi/antimalware-scan-interface-portal))
 - [Test](https://smartscreentestratings2.net/) your Network protection
 - [Changelogs](https://www.microsoft.com/en-us/wdsi/definitions/antimalware-definition-release-notes) for Defender security intelligence updates
+- check if your Bitlocker is safe against Bitleaker: [Blog](https://www.blackhat.com/asia-20/briefings/schedule/#bitleaker-subverting-bitlocker-with-one-vulnerability-19413)
 
 <br />
 
