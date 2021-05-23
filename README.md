@@ -97,6 +97,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * Complete W^X implementation in Windows with [ACG](https://blogs.windows.com/msedgedev/2017/02/23/mitigating-arbitrary-native-code-execution/)
 * Understanding [Hardware-enforced Stack Protection](https://techcommunity.microsoft.com/t5/windows-kernel-internals/understanding-hardware-enforced-stack-protection/ba-p/1247815) (CET)
 * Threat Detection using Windows Defender Application Control (Device Guard) in Audit Mode [Blog](https://posts.specterops.io/threat-detection-using-windows-defender-application-control-device-guard-in-audit-mode-602b48cd1c11)
+* [Security Unlocked](https://securityunlockedpodcast.com/) - The Microsoft Security Podcast about [Below the OS: UEFI Scanning in Defender](https://shows.acast.com/security-unlocked/episodes/below-the-os-uefi-scanning-in-defender)
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP2/SiSyPHuS_AP2_node.html) of Windows 10 - OS Architecture
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP5/SiSyPHuS_AP5_node.html) of TPM Integration and UEFI "Secure Boot" in Windows 10
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP6/SiSyPHuS_AP6_node.html) of Virtual Secure Mode
