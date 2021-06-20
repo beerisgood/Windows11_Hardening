@@ -100,6 +100,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * [Security Unlocked](https://securityunlockedpodcast.com/) - The Microsoft Security Podcast about [Below the OS: UEFI Scanning in Defender](https://shows.acast.com/security-unlocked/episodes/below-the-os-uefi-scanning-in-defender)
 * How the (Powershell) Constrained Language Mode is enforced [Blog](https://www.oreilly.com/library/view/learn-powershell-core/9781788838986/29834cd4-f9f3-4968-8493-ce4167214515.xhtml)
 * Application Control denies execution of randomly generated PowerShell PS1 files [Blog](https://kc.mcafee.com/corporate/index?page=content&id=KB91608&locale=en_US)
+* Applocker and PowerShell: how do they tightly work together? [Blog](https://p0w3rsh3ll.wordpress.com/2019/03/07/applocker-and-powershell-how-do-they-tightly-work-together/)
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP2/SiSyPHuS_AP2_node.html) of Windows 10 - OS Architecture
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP5/SiSyPHuS_AP5_node.html) of TPM Integration and UEFI "Secure Boot" in Windows 10
 * [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP6/SiSyPHuS_AP6_node.html) of Virtual Secure Mode
