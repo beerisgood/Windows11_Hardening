@@ -21,7 +21,6 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 - [x] [create](https://support.microsoft.com/en-us/windows/create-a-local-user-or-administrator-account-in-windows-10-20de74e0-ac7f-3502-a866-32915af2a34d) another Admin account and [transform](https://www.windowscentral.com/how-change-user-account-type-windows-10#change-account-types-with-netplwiz) your current one to limited/ restricted/ standard user account to reduce the attack surface enormously. Don't use Admin account for your tasks!
 - [x] use Software Restriction Policies ([SRP](https://github.com/beerisgood/Windows10_Hardening/blob/master/Software%20Restriction%20Policies)) with a default-deny mode
 - [x] execute/ open new files with one-day-delay because after one day, the malware is not 0-day [anymore](https://malwaretips.com/threads/windows-defender-delay-protection.101566/#post-887769)
-- [x] use Defender [Firewall with Advanced Security](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/windows-firewall-with-advanced-security)
 - [x] Always [display](https://github.com/beerisgood/Windows10_Hardening/blob/master/always%20display%20file%20typ%20extension) file type extension
 - [x] [Manage](https://docs.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-manage) Microsoft Defender [Credential Guard](https://docs.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard)
 - [x] Install [Microsoft Defender Application Guard](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-guard/install-wd-app-guard#install-application-guard) (WDAG)
@@ -77,6 +76,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 <br />
 
 ###### Reading Material:
+* Defender [Firewall with Advanced Security](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/windows-firewall-with-advanced-security)
 * https://github.com/frizb/Windows-Privilege-Escalation
 * https://github.com/LOLBAS-Project/LOLBAS
 * https://github.com/api0cradle/UltimateAppLockerByPassList
