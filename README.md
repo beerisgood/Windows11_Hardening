@@ -106,8 +106,4 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * Application Control denies execution of randomly generated PowerShell PS1 files [Blog](https://kc.mcafee.com/corporate/index?page=content&id=KB91608&locale=en_US)
 * Applocker and PowerShell: how do they tightly work together? [Blog](https://p0w3rsh3ll.wordpress.com/2019/03/07/applocker-and-powershell-how-do-they-tightly-work-together/)
 * PowerShell 5.0 and Applocker. When security doesn’t mean security [Blog](https://www.sysadmins.lv/blog-en/powershell-50-and-applocker-when-security-doesnt-mean-security.aspx)
-* [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP2/SiSyPHuS_AP2_node.html) of Windows 10 - OS Architecture
-* [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP5/SiSyPHuS_AP5_node.html) of TPM Integration and UEFI "Secure Boot" in Windows 10
-* [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP6/SiSyPHuS_AP6_node.html) of Virtual Secure Mode
-* [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP7/SiSyPHuS_AP7_node.html) of Device Guard
-* [Analysis](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP8/SiSyPHuS_AP8_node.html) of Powershell and Windows Script Host
+* German BSI - [SiSyPHuS Win10](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/SiSyPHuS_node.html): Study on System Integrity, Logging, Hardening and Security relevant Functionality in Windows 10
