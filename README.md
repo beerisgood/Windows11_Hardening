@@ -108,3 +108,4 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * Applocker and PowerShell: how do they tightly work together? [Blog](https://p0w3rsh3ll.wordpress.com/2019/03/07/applocker-and-powershell-how-do-they-tightly-work-together/)
 * PowerShell 5.0 and Applocker. When security doesn’t mean security [Blog](https://www.sysadmins.lv/blog-en/powershell-50-and-applocker-when-security-doesnt-mean-security.aspx)
 * German BSI - [SiSyPHuS Win10](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/SiSyPHuS_node.html): Study on System Integrity, Logging, Hardening and Security relevant Functionality in Windows 10
+* rc3 event - [Breaking Thunderbolt 3 Security](https://media.ccc.de/v/rc3-534188-when_lightning_strikes_thrice)
