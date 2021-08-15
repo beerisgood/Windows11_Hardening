@@ -111,3 +111,4 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * rc3 event - [Breaking Thunderbolt 3 Security](https://media.ccc.de/v/rc3-534188-when_lightning_strikes_thrice)
 * CIS [Security Benchmark](https://www.cisecurity.org/benchmark/microsoft_windows_desktop/)
 * NIST Security Technical Implementation [Guide](https://ncp.nist.gov/checklist/629)
+* AppLocker and WDAC help [Blog](https://improsec.com/tech-blog/one-thousand-and-one-application-blocks)
