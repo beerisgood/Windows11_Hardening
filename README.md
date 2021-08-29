@@ -113,3 +113,4 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * NIST Security Technical Implementation [Guide](https://ncp.nist.gov/checklist/629)
 * AppLocker and WDAC help [Blog](https://improsec.com/tech-blog/one-thousand-and-one-application-blocks)
 * Microsoft Defender Attack Surface Reduction (ASR) [recommendations](https://blog.palantir.com/microsoft-defender-attack-surface-reduction-recommendations-a5c7d41c3cf8)
+* Adventures in Extremely Strict Device Guard (WDAC) Policy Configuration [Blog](https://posts.specterops.io/adventures-in-extremely-strict-device-guard-policy-configuration-part-1-device-drivers-fd1a281b35a8)
