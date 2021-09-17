@@ -117,3 +117,4 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * Microsoft Defender Attack Surface Reduction (ASR) [recommendations](https://blog.palantir.com/microsoft-defender-attack-surface-reduction-recommendations-a5c7d41c3cf8)
 * Adventures in Extremely Strict Device Guard (WDAC) Policy Configuration [Blog](https://posts.specterops.io/adventures-in-extremely-strict-device-guard-policy-configuration-part-1-device-drivers-fd1a281b35a8)
 * Building a Simple, Secure Windows-only WDAC Policy [Blog](https://mattifestation.medium.com/windows-defender-application-control-wdac-updates-in-20h2-and-building-a-simple-secure-4fd4ee86de4)
+* Application Control [on](https://malwaretips.com/threads/application-control-on-windows-10-home.89753/) Windows 10 Home
