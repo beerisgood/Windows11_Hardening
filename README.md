@@ -118,3 +118,4 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * Adventures in Extremely Strict Device Guard (WDAC) Policy Configuration [Blog](https://posts.specterops.io/adventures-in-extremely-strict-device-guard-policy-configuration-part-1-device-drivers-fd1a281b35a8)
 * Building a Simple, Secure Windows-only WDAC Policy [Blog](https://mattifestation.medium.com/windows-defender-application-control-wdac-updates-in-20h2-and-building-a-simple-secure-4fd4ee86de4)
 * Application Control [on](https://malwaretips.com/threads/application-control-on-windows-10-home.89753/) Windows 10 Home
+* Windows Hello - [Why a PIN is better than a password](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-why-pin-is-better-than-password)
