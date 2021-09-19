@@ -41,6 +41,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 - [x] [Only elevate](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-group-policy-and-registry-key-settings#user-account-control-only-elevate-executables-that-are-signed-and-validated) executables which are signed and validated
 - [x] use the only browser on Windows 10 [that natively supports](https://docs.microsoft.com/en-us/deployedge/ms-edge-security-for-business) hardware isolation: [Edge](https://www.microsoft.com/en-us/edge)
 - [x] use [EFS file encryption](https://community.windows.com/en-us/stories/file-encryption-windows-10) for very sensitive files - also compatible with Bitlocker
+- [x] (if OneDrive is used), [harden](https://malwaretips.com/threads/hard_configurator-windows-hardening-configurator.66416/page-28#post-743486) it with Windows CFA (Control Folder Access aka Ransomware Protection)
 
 ### Further Hardening
 - [ ] Specify the [cloud-delivered protection level](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/specify-cloud-protection-level-windows-defender-antivirus#use-group-policy-to-specify-the-level-of-cloud-delivered-protection)
