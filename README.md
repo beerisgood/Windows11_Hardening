@@ -125,3 +125,4 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * Application Control [on](https://malwaretips.com/threads/application-control-on-windows-10-home.89753/) Windows 10 Home
 * Windows Hello - [Why a PIN is better than a password](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-why-pin-is-better-than-password)
 * Battle of the SKM and IUM: How Windows 10 Rewrites OS Architecture ([blackhat USA 2015 talk](https://www.youtube.com/watch?v=LqaWIn4y26E))
+* Defender (with [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender/) tool) [vs](https://malwaretips.com/threads/configuredefender-utility-for-windows-10.79039/page-32#post-834160) fileless malware
