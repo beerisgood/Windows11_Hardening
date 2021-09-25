@@ -43,6 +43,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 - [x] use the only browser on Windows 10 [that natively supports](https://docs.microsoft.com/en-us/deployedge/ms-edge-security-for-business) hardware isolation: [Edge](https://www.microsoft.com/en-us/edge)
 - [x] use [EFS file encryption](https://community.windows.com/en-us/stories/file-encryption-windows-10) for very sensitive files - also compatible with Bitlocker
 - [x] (if OneDrive is used), [harden](https://malwaretips.com/threads/hard_configurator-windows-hardening-configurator.66416/page-28#post-743486) it with Windows CFA (Control Folder Access aka Ransomware Protection)
+- [x] avoid old file systems like FAT32 as such format [does not preserve](https://malwaretips.com/threads/how-to-harden-my-system-against-usb-spreading-malware.98442/page-2#post-859762) Alternative NTFS Streams (Mark Of The Web is skipped)
 
 ### Further Hardening
 - [ ] Specify the [cloud-delivered protection level](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/specify-cloud-protection-level-windows-defender-antivirus#use-group-policy-to-specify-the-level-of-cloud-delivered-protection)
