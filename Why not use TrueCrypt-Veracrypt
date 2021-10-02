@@ -1,0 +1,6 @@
+With SecureBoot, before your computer boots to Windows it verifies the OS hasn't been corrupted with a bootkit that modifies Windows that lets a virus run hidden.
+3rd party encryption tools break this chain of trust that flows from UEFI to Windows bootloader to BitLocker.
+This chain of trust is critical for preventing an entire category of attack against Windows.
+This is not theoretical, this stops real-life attacks.
+
+Source: https://decentsecurity.com/securing-your-computer/
