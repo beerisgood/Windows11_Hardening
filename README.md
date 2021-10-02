@@ -81,6 +81,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 - check if your Bitlocker is safe against Bitleaker: [Blog](https://www.blackhat.com/asia-20/briefings/schedule/#bitleaker-subverting-bitlocker-with-one-vulnerability-19413)
 - [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) (tool from Microsoft) [filter](https://github.com/CERTCC/privesc) for finding privilege escalation vulnerabilities on Windows
 - [winchecksec](https://github.com/trailofbits/winchecksec) performs static detection of common Windows security features
+- Sysmon [configuration](https://github.com/SwiftOnSecurity/sysmon-config) file template with default high-quality event tracing
 
 <br />
 
