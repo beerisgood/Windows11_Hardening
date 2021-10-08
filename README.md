@@ -1,16 +1,16 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Windows10_Hardening?label=last%20update%3A) ![enter image description here](https://img.shields.io/badge/for%20Windows:-21H1-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Windows11_Hardening?label=last%20update%3A) ![enter image description here](https://img.shields.io/badge/for%20Windows:-21H1-blue)
 
 This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly recommend
 
 
 # Requirements
-- [x] [Standards](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure) for a highly secure Windows 10 device
-- [x] System [up2date](https://support.microsoft.com/en-gb/help/4027667/windows-10-update) with latest [Windows 10 stable version](https://www.microsoft.com/en-us/software-download/windows10)
+- [x] [Standards](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure) for a highly secure Windows device
+- [x] System [up2date](https://support.microsoft.com/en-gb/help/4027667/windows-10-update) with latest [Windows stable version](https://www.microsoft.com/en-us/software-download/windows10)
 - [x] (default activated) and [Up2date](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/manage-updates-baselines-microsoft-defender-antivirus#monthly-platform-and-engine-versions) internal Microsoft Defender protection instead of external "Security" solutions
 - [x] Latest Driver and Program updates
 - [x] No "Tuning" tools (not even stuff like Ccleaner!)
 - [x] Only necessary programs / apps / games which you realy need
-- [x] avoid insecure software like 7-Zip (which e.g. lacks [Anti-Exploit](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-6#post-861699) and [MOTW](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-3#post-800003) support), Open/ LibreOffice, [Firefox](https://madaidans-insecurities.github.io/firefox-chromium.html), [True/Veracrypt](https://github.com/beerisgood/Windows10_Hardening/blob/master/Why%20not%20use%20TrueCrypt-Veracrypt), ...
+- [x] avoid insecure software like 7-Zip (which e.g. lacks [Anti-Exploit](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-6#post-861699) and [MOTW](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-3#post-800003) support), Open/ LibreOffice, [Firefox](https://madaidans-insecurities.github.io/firefox-chromium.html), [True/Veracrypt](https://github.com/beerisgood/Windows11_Hardening/blob/master/Why%20not%20use%20TrueCrypt-Veracrypt), ...
 - [x] stay away from "Anti-Spying"/ "Anti-Telemetry"/.. tools and use [official documentation](https://github.com/beerisgood/Windows10_Anti-Telemetry)
 - [x] [Hardware Requirements](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/system-guard-secure-launch-and-smm-protection#requirements-met-by-system-guard-enabled-machines) for [System Guard](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/system-guard-how-hardware-based-root-of-trust-helps-protect-windows) / [Hardware-based Isolation](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/overview-hardware-based-isolation)
 - [x] [Hardware Requirements](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/requirements-and-deployment-planning-guidelines-for-virtualization-based-protection-of-code-integrity#baseline-protections) for [Memory integrity](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/memory-integrity)
@@ -19,12 +19,12 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 
 
 ## Hardening
-- [x] set User Account Control ([UAC](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview)) to [maximum](https://github.com/beerisgood/Windows10_Hardening/blob/master/maximum%20UAC%20level)
+- [x] set User Account Control ([UAC](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview)) to [maximum](https://github.com/beerisgood/Windows11_Hardening/blob/master/maximum%20UAC%20level)
 - [x] [create](https://support.microsoft.com/en-us/windows/create-a-local-user-or-administrator-account-in-windows-10-20de74e0-ac7f-3502-a866-32915af2a34d) another Admin account and [transform](https://www.windowscentral.com/how-change-user-account-type-windows-10#change-account-types-with-netplwiz) your current one to limited/ restricted/ standard user account to reduce the attack surface enormously. Don't use Admin account for your tasks!
-- [x] use Software Restriction Policies ([SRP](https://github.com/beerisgood/Windows10_Hardening/blob/master/Software%20Restriction%20Policies)) with a default-deny mode
+- [x] use Software Restriction Policies ([SRP](https://github.com/beerisgood/Windows11_Hardening/blob/master/Software%20Restriction%20Policies)) with a default-deny mode
 - [x] execute/ open new files with one-day-delay because after one day, the malware is not 0-day [anymore](https://malwaretips.com/threads/windows-defender-delay-protection.101566/#post-887769)
 - [x] [block all incoming connections](https://malwaretips.com/threads/what-would-happen-if-a-legimate-program-os-or-game-somehow-had-a-virus-or-malware-installed-on-it-from-the-official-source.108861/page-2#post-949038) with Microsoft Defender Firewall
-- [x] Always [display](https://github.com/beerisgood/Windows10_Hardening/blob/master/always%20display%20file%20typ%20extension) file type extension
+- [x] Always [display](https://github.com/beerisgood/Windows11_Hardening/blob/master/always%20display%20file%20typ%20extension) file type extension
 - [x] [Manage](https://docs.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-manage) Microsoft Defender [Credential Guard](https://docs.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard)
 - [x] Install [Microsoft Defender Application Guard](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-guard/install-wd-app-guard#install-application-guard) (WDAG)
 - [x] Enable [Memory integrity](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/enable-virtualization-based-protection-of-code-integrity#how-to-turn-on-hvci-in-windows-10) (HVCI)
@@ -32,7 +32,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 - [x] Enable [SmartScreen](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-smartscreen/windows-defender-smartscreen-set-individual-device) and enable SmartScreen [Log](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-smartscreen/windows-defender-smartscreen-overview#viewing-windows-event-logs-for-windows-defender-smartscreen)
 - [x] [Enable](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/enable-controlled-folders#powershell) Controlled Folder Access ([CFA](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/controlled-folders))
 - [x] [Enable](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/enable-attack-surface-reduction#powershell) Attack Surface Reduction rules ([ASR](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/attack-surface-reduction#attack-surface-reduction-rules))
-- [x] [Harden](https://github.com/beerisgood/Windows10_Hardening/blob/master/harden%20ASLR) Address Space Layout Randomization ([ASLR](https://docs.microsoft.com/en-us/windows/security/threat-protection/overview-of-threat-mitigations-in-windows-10#address-space-layout-randomization))
+- [x] [Harden](https://github.com/beerisgood/Windows11_Hardening/blob/master/harden%20ASLR) Address Space Layout Randomization ([ASLR](https://docs.microsoft.com/en-us/windows/security/threat-protection/overview-of-threat-mitigations-in-windows-10#address-space-layout-randomization))
 - [x] Enable [System Guard Secure Launch](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/system-guard-secure-launch-and-smm-protection#windows-security-center)
 - [x] Enable [cloud-delivered protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/enable-cloud-protection-windows-defender-antivirus)
 - [x] [Activate](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/detect-block-potentially-unwanted-apps-windows-defender-antivirus?ocid=wd-av-demo-pua-bottom#use-powershell-cmdlets-to-configure-pua-protection) Potentially unwanted applications ([PUA](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/detect-block-potentially-unwanted-apps-windows-defender-antivirus#use-powershell-cmdlets-to-configure-pua-protection)) protection
@@ -40,7 +40,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 - [x] Use [Windows Sandbox](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/Windows-Sandbox/ba-p/301849) for unknown/ untrusted binarys - [you can use it with right click menu](https://github.com/damienvanrobaeys/Run-in-Sandbox) - or use [Virtual Machine](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/quick-create-virtual-machine) with [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)
 - [x] [Enable sandboxing](https://www.microsoft.com/security/blog/2018/10/26/windows-defender-antivirus-can-now-run-in-a-sandbox/) for Microsoft Defender Antivirus
 - [x] [Only elevate](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-group-policy-and-registry-key-settings#user-account-control-only-elevate-executables-that-are-signed-and-validated) executables which are signed and validated
-- [x] use the only browser on Windows 10 [that natively supports](https://docs.microsoft.com/en-us/deployedge/ms-edge-security-for-business) hardware isolation: [Edge](https://www.microsoft.com/en-us/edge)
+- [x] use the only browser on Windows [that natively supports](https://docs.microsoft.com/en-us/deployedge/ms-edge-security-for-business) hardware isolation: [Edge](https://www.microsoft.com/en-us/edge)
 - [x] use [EFS file encryption](https://community.windows.com/en-us/stories/file-encryption-windows-10) for very sensitive files - also compatible with Bitlocker
 - [x] (if OneDrive is used), [harden](https://malwaretips.com/threads/hard_configurator-windows-hardening-configurator.66416/page-28#post-743486) it with Windows CFA (Control Folder Access aka Ransomware Protection)
 - [x] avoid old file systems like FAT32 as such format [does not preserve](https://malwaretips.com/threads/how-to-harden-my-system-against-usb-spreading-malware.98442/page-2#post-859762) Alternative NTFS Streams (Mark Of The Web is skipped)
@@ -96,7 +96,7 @@ This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly re
 * https://docs.microsoft.com/en-us/windows/security/threat-protection/overview-of-threat-mitigations-in-windows-10
 * https://docs.microsoft.com/en-us/windows/security/
 * a [picture](https://www.microsoft.com/security/blog/wp-content/uploads/2020/08/fig1-pair-of-AMSI-machine-learning-models.png) about Microsoft Defender local and cloud script [protection](https://www.microsoft.com/security/blog/2020/08/27/stopping-active-directory-attacks-and-other-post-exploitation-behavior-with-amsi-and-machine-learning/)
-* a [picture](https://raw.githubusercontent.com/beerisgood/Windows10_Hardening/master/Attack%20Surface%20Reduction%20(ASR)%20Rules.png) about Attack Surface Reduction (ASR) Rules
+* a [picture](https://raw.githubusercontent.com/beerisgood/Windows11_Hardening/master/Attack%20Surface%20Reduction%20(ASR)%20Rules.png) about Attack Surface Reduction (ASR) Rules
 * Security Unlocked - The Microsoft Security [Podcast](https://securityunlockedpodcast.com/)
 * How the hell WD works on Windows Home & Pro [documentation](https://malwaretips.com/threads/how-the-hell-wd-works-on-windows-home-pro.95146/) from [AndyFul](https://github.com/AndyFul)
 * [Windows AppContainer Isolation - what it does?](https://malwaretips.com/threads/windows-appcontainer-isolation-what-it-does.90395/#post-797216) from AndyFul
