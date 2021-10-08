@@ -1,6 +1,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Windows11_Hardening?label=last%20update%3A) ![enter image description here](https://img.shields.io/badge/for%20Windows:-21H1-blue)
 
-This [*awesome tool*](https://github.com/AndyFul/Hard_Configurator) is highly recommend
+[*Hard_Configurator*](https://github.com/AndyFul/Hard_Configurator) is highly recommend and will save a lot of your time.
 
 
 # Requirements
