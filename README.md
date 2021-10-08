@@ -5,13 +5,13 @@
 
 # Requirements
 - [x] [Standards](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure) for a highly secure Windows device
-- [x] System [up2date](https://support.microsoft.com/en-gb/help/4027667/windows-10-update) with latest [Windows stable version](https://www.microsoft.com/en-us/software-download/windows10)
+- [x] System [up2date](https://support.microsoft.com/en-gb/help/4027667/windows-10-update) with latest [Windows stable version](https://www.microsoft.com/en-us/software-download/windows11)
 - [x] (default activated) and [Up2date](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/manage-updates-baselines-microsoft-defender-antivirus#monthly-platform-and-engine-versions) internal Microsoft Defender protection instead of external "Security" solutions
 - [x] Latest Driver and Program updates
 - [x] No "Tuning" tools (not even stuff like Ccleaner!)
 - [x] Only necessary programs / apps / games which you realy need
 - [x] avoid insecure software like 7-Zip (which e.g. lacks [Anti-Exploit](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-6#post-861699) and [MOTW](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-3#post-800003) support), Open/ LibreOffice, [Firefox](https://madaidans-insecurities.github.io/firefox-chromium.html), [True/Veracrypt](https://github.com/beerisgood/Windows11_Hardening/blob/master/Why%20not%20use%20TrueCrypt-Veracrypt), ...
-- [x] stay away from "Anti-Spying"/ "Anti-Telemetry"/.. tools and use [official documentation](https://github.com/beerisgood/Windows10_Anti-Telemetry)
+- [x] stay away from "Anti-Spying"/ "Anti-Telemetry"/.. tools and use [official documentation](https://github.com/beerisgood/Windows11_Privacy)
 - [x] [Hardware Requirements](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/system-guard-secure-launch-and-smm-protection#requirements-met-by-system-guard-enabled-machines) for [System Guard](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/system-guard-how-hardware-based-root-of-trust-helps-protect-windows) / [Hardware-based Isolation](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/overview-hardware-based-isolation)
 - [x] [Hardware Requirements](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/requirements-and-deployment-planning-guidelines-for-virtualization-based-protection-of-code-integrity#baseline-protections) for [Memory integrity](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/memory-integrity)
 - [x] [Hardware Requirements](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-guard/reqs-wd-app-guard) for Microsoft [Defender Application Guard](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-guard/wd-app-guard-overview) (WDAG)
