@@ -64,6 +64,7 @@
 - [ ] [Protect](https://docs.microsoft.com/en-us/windows/security/identity-protection/remote-credential-guard) Remote Desktop credentials with Windows Defender Remote Credential Guard
 - [ ] [Manage](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-manage-in-organization) Windows [Hello for Business](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-identity-verification)
 - [ ] [Protect](https://attack.mitre.org/techniques/T1574/001/) against [DLL Search Order Hijacking](https://en.wikipedia.org/wiki/Dynamic-link_library#DLL_hijacking)
+- [ ] [report](https://www.microsoft.com/en-us/wdsi/driversubmission) a vulnerable or malicious driver to the Windows and Defender teams
 
 <br />
 
