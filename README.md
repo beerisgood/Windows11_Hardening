@@ -130,3 +130,4 @@
 * Defender (with [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender/) tool) [vs](https://malwaretips.com/threads/configuredefender-utility-for-windows-10.79039/page-32#post-834160) fileless malware
 * Offense and Defense – A Tale of Two Sides: [Bypass UAC](https://www.fortinet.com/blog/threat-research/offense-and-defense-a-tale-of-two-sides-bypass-uac)
 * Microsoft Windows Antimalware Scan Interface (AMSI) [Bypasses](https://thalpius.com/2021/10/14/microsoft-windows-antimalware-scan-interface-bypasses/)
+* Windows security book in [web doc form](https://docs.microsoft.com/en-us/windows/security/)
