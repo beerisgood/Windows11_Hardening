@@ -131,3 +131,4 @@
 * Offense and Defense – A Tale of Two Sides: [Bypass UAC](https://www.fortinet.com/blog/threat-research/offense-and-defense-a-tale-of-two-sides-bypass-uac)
 * Microsoft Windows Antimalware Scan Interface (AMSI) [Bypasses](https://thalpius.com/2021/10/14/microsoft-windows-antimalware-scan-interface-bypasses/)
 * Windows security book in [web doc form](https://docs.microsoft.com/en-us/windows/security/)
+* [Video](https://www.youtube.com/watch?v=UW71JGE6Nsc): Smartscreen in Edge (& Chrome) to block phishing & malicious websites
