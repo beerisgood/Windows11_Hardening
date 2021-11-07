@@ -66,6 +66,7 @@
 - [ ] [Protect](https://attack.mitre.org/techniques/T1574/001/) against [DLL Search Order Hijacking](https://en.wikipedia.org/wiki/Dynamic-link_library#DLL_hijacking)
 - [ ] [report](https://www.microsoft.com/en-us/wdsi/driversubmission) a vulnerable or malicious driver to the Windows and Defender teams
 - [ ] [Video](https://www.youtube.com/watch?v=SQwVSgdFBFs) from Matt Soseman: Investigating Backdoor Attacks w/ Microsoft Defender ATP
+- [ ] [Video](https://www.youtube.com/watch?v=e3TGejjVyog) from Matt Soseman: Investigating a Fileless Attack w/ Microsoft Defender ATP & Exploit Protection
 
 <br />
 
