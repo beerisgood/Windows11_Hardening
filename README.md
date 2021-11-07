@@ -138,3 +138,4 @@
 * [Video](https://www.youtube.com/watch?v=qgaRGaLd7-o) from Matt Soseman: How Controlled Folder Access (CFA) works in Windows
 * [Video](https://www.youtube.com/watch?v=QktCmzrqOp4) from Matt Soseman: Block Potentially Unwanted Applications (PUA) in Microsoft Defender Antivirus
 * [Video](https://www.youtube.com/watch?v=36OJHS-4VhE) from Matt Soseman: Attack Surface Reduction (ASR) in Windows
+* [Video](https://www.youtube.com/watch?v=OFEdoCWZjaI) from Matt Soseman: Hardware Isolated Browsing w/ Microsoft Defender Application Guard
