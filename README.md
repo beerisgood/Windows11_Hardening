@@ -140,3 +140,4 @@
 * [Video](https://www.youtube.com/watch?v=QktCmzrqOp4) from Matt Soseman: Block Potentially Unwanted Applications (PUA) in Microsoft Defender Antivirus
 * [Video1](https://www.youtube.com/watch?v=36OJHS-4VhE), [Video2](https://www.youtube.com/watch?v=j5MaWilThkY) from Matt Soseman: Attack Surface Reduction (ASR) in Windows
 * [Video](https://www.youtube.com/watch?v=OFEdoCWZjaI) from Matt Soseman: Hardware Isolated Browsing w/ Microsoft Defender Application Guard
+* what is meant by "[User Space](https://malwaretips.com/threads/run-by-smartscreen-utility.65145/#post-561364)"
