@@ -133,3 +133,4 @@
 * Windows security book in [web doc form](https://docs.microsoft.com/en-us/windows/security/)
 * [Video](https://www.youtube.com/watch?v=UW71JGE6Nsc) from Matt Soseman: Smartscreen in Edge (& Chrome) to block phishing & malicious websites
 * [Video](https://www.youtube.com/watch?v=fkKKuzhe1fE) from Matt Soseman: Block at First Sight (BAFS): Windows Defender blocking malware in SECONDS!
+* [Video](https://www.youtube.com/watch?v=qgaRGaLd7-o) from Matt Soseman: How Controlled Folder Access (CFA) works in Windows
