@@ -67,6 +67,7 @@
 - [ ] [report](https://www.microsoft.com/en-us/wdsi/driversubmission) a vulnerable or malicious driver to the Windows and Defender teams
 - [ ] [Video](https://www.youtube.com/watch?v=SQwVSgdFBFs) from Matt Soseman: Investigating Backdoor Attacks w/ Microsoft Defender ATP
 - [ ] [Video](https://www.youtube.com/watch?v=e3TGejjVyog) from Matt Soseman: Investigating a Fileless Attack w/ Microsoft Defender ATP & Exploit Protection
+- [ ] [Video](https://www.youtube.com/watch?v=CcN7EEpOgNw) from Matt Soseman: What is the Microsoft Cybersecurity Reference Architectures (MCRA) and why should I care?
 
 <br />
 
