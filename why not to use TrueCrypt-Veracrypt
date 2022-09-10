@@ -4,3 +4,5 @@ This chain of trust is critical for preventing an entire category of attack agai
 This is not theoretical, this stops real-life attacks.
 
 Source: https://decentsecurity.com/securing-your-computer/
+
+Regarding encrypted containers, Windows can also do this natively with the EFS feature (mentioned in the article)
