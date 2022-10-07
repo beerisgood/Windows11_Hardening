@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Windows11_Hardening?label=last%20update%3A&style=flat-square) ![recommend Windows version](https://img.shields.io/badge/for%20Windows:-22H1-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Windows11_Hardening?label=last%20update%3A&style=flat-square) ![recommend Windows version](https://img.shields.io/badge/for%20Windows:-22H2-blue)
 
 [*Hard_Configurator*](https://github.com/AndyFul/Hard_Configurator) is highly recommended and will save a lot of your time.
 
