@@ -1,3 +1,7 @@
+SRP (and AppLocker) are old. Also instead of using WDAC (Windows Defender Application Control), SAC (Smart App Control) is the newest and recommended solution. 
+
+SRP Links:
+
 # https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb457006(v=technet.10)
 # https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/using-software-restriction-policies-and-applocker-policies
 
