@@ -21,7 +21,7 @@
 ## Hardening
 - [x] set User Account Control ([UAC](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview)) to [maximum](https://github.com/beerisgood/Windows11_Hardening/blob/master/maximum%20UAC%20level)
 - [x] [create](https://support.microsoft.com/en-us/windows/create-a-local-user-or-administrator-account-in-windows-10-20de74e0-ac7f-3502-a866-32915af2a34d) another Admin account and [transform](https://www.windowscentral.com/how-change-user-account-type-windows-10#change-account-types-with-netplwiz) your current one to limited/ restricted/ standard user account to reduce the attack surface enormously. Don't use Admin account for your tasks!
-- [x] use Software Restriction Policies ([SRP](https://github.com/beerisgood/Windows11_Hardening/blob/master/Software%20Restriction%20Policies)) with a default-deny mode
+- [x] use SAC ([Smart App Control](https://support.microsoft.com/en-us/topic/what-is-smart-app-control-285ea03d-fa88-4d56-882e-6698afdb7003))
 - [x] execute/ open new files with one-day-delay because after one day, the malware is not 0-day [anymore](https://malwaretips.com/threads/windows-defender-delay-protection.101566/#post-887769)
 - [x] [block all incoming connections](https://malwaretips.com/threads/what-would-happen-if-a-legimate-program-os-or-game-somehow-had-a-virus-or-malware-installed-on-it-from-the-official-source.108861/page-2#post-949038) with Microsoft Defender Firewall
 - [x] Always [display](https://github.com/beerisgood/Windows11_Hardening/blob/master/always%20display%20file%20typ%20extension) file type extension
