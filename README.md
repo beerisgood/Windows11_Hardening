@@ -24,7 +24,7 @@ While [*Hard_Configurator*](https://github.com/AndyFul/Hard_Configurator) is hig
 - [x] Use [Smart App Control](https://support.microsoft.com/en-us/topic/what-is-smart-app-control-285ea03d-fa88-4d56-882e-6698afdb7003)
 - [x] Execute/open new files after 24 hours of downloading because, after one day, [the malware is not 0-day anymore](https://malwaretips.com/threads/windows-defender-delay-protection.101566/#post-887769)
 - [x] [Block all incoming connections](https://malwaretips.com/threads/what-would-happen-if-a-legimate-program-os-or-game-somehow-had-a-virus-or-malware-installed-on-it-from-the-official-source.108861/page-2#post-949038) with Microsoft Defender Firewall
-- [x] Always [display file type extension]((https://github.com/beerisgood/Windows11_Hardening/blob/master/always%20display%20file%20type%20extension)
+- [x] Always [display file type extension](https://github.com/beerisgood/Windows11_Hardening/blob/master/always%20display%20file%20type%20extension)
 - [x] [Manage](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-manage) Microsoft Defender [Credential Guard](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard)
 - [x] Install Microsoft Defender Application Guard ([WDAG]((https://learn.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard#install-application-guard))) and use it for untrusted sites
 - [x] Enable Memory Integrity ([HVCI](https://learn.microsoft.com/en-us/windows/security/threat-protection/device-guard/enable-virtualization-based-protection-of-code-integrity#how-to-turn-on-hvci-in-windows-10))
