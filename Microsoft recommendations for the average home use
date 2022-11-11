@@ -23,6 +23,7 @@ For above-average users:
 -   Do not be paranoid about Microsoft telemetry.
 -   If you make any changes from the default Windows setup, ensure that the changes make the OS more secure, not less.
 
+
 The last point is crucial. Changing your web browser from Edge to Chrome requires installing third-party software or extensions to achieve the same level of security*.
 Not only have you introduced a second point of attack by having two web browsers installed, but enabling SmartScreen in Chrome requires using even more extensions[2]
 that can't even fully use SmartScreen[2]. 3rd-party email clients can't run in AppContainers and allow running unsafe attachments. Using a 3rd-party unpacker (7-Zip)
