@@ -1,8 +1,8 @@
 With SecureBoot, Windows can verify that the OS hasn't been compromised by scanning for bootkits before the computer boots. This validity is achieved through a secure chain of trust from the BIOS to BitLocker. 
 This functionality is critical for preventing an entire category of attacks against Windows. These attacks are not theoretical.
-https://decentsecurity.com/securing-your-computer/
+See: https://decentsecurity.com/securing-your-computer/
 
 
 3rd party encryption tools such as VeraCrypt for OS FDE break this chain of trust.
 Regarding encrypted containers, Windows can also do this natively with the EFS feature. 
-https://www.thewindowsclub.com/encrypting-file-system-efs-windows-10
+See: https://www.thewindowsclub.com/encrypting-file-system-efs-windows-10
