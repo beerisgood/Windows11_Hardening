@@ -1,23 +1,30 @@
 Source: https://malwaretips.com/threads/how-to-find-microsoft-security-best-practices.106351/#post-926447
 
-Microsoft recommendations for the average home user follow directly from Windows built-in (mostly default) settings:
+Microsoft recommendations for the average home user, following directly from the Windows built-in (mostly default) settings:
 
-1.  Use the updated Windows 10 and well updated software.
-2.  Use Microsoft Defender or another good AV.
-3.  Use Microsoft account.
-4.  Use Edge web browser with SmartScreen and PUA protection enabled - do not ignore/bypass the security alerts.
-5.  Do not use too many web browser extensions and install only extensions from trusted vendors.
-6.  Use Edge as a PDF viewer.
-7.  Use Windows Mail app as a mail client.
-8.  Use free versions of MS Office applications (Word, Excel, PowerPoint) already available in Windows. They work in Edge web browser and do not allow active content in documents.
-9.  Backup your personal files.
+1. Ensure Windows 11 is up to date.
+2. Ensure software is well updated.
+3. Use Microsoft Defender.
+4. Use a Microsoft account.
+5. Use Edge web browser with SmartScreen and PUA protection enabled. Do not ignore/bypass the security alerts.
+6. Use only essential web browser extensions and install extensions from trusted vendors.
+7. Use Edge as your PDF viewer.
+8. Use Windows Mail app as your mail client.
+9. Use free versions of MS Office applications (Word, Excel, PowerPoint) already available in Windows. They work in Edge and do not allow active content in documents.
+10. Back up your personal files.
 
 For above-average users:  
--   Prepare for children and inexperienced family members the Standard User Accounts, if you understand how SUA works (especially when installing the software with Admin rights).
--   Avoid installing 3rd party real-time security (one is usually enough).
+-   Prepare the Standard User Accounts for children and inexperienced family members if you understand how SUA works (especially when installing the software with Admin rights).
+-   Avoid installing 3rd-party real-time security software (defender is usually enough).
 -   Prefer installing popular & digitally signed applications.
--   Use Windows built-in tools to clean up the system. Do not try to make enhanced clean-up with 3rd-party tools, because you will not see a difference and these tools can cause hidden problems.
+-   Use Windows built-in tools to clean up the system. Refrain from using 3rd-party enhancing/cleanup tools because you will not see a difference, and these tools can cause hidden problems.
 -   Do not be paranoid about Microsoft telemetry.
--   **If you change the default Windows setup, try to make it as secure as before.**
+-   If you change the default Windows setup, ensure that changes make the OS more secure, not less.
 
-The last point (marked with asterisk) is very important. For example, changing Edge to Chrome web browser requires installing some extensions. Using another email-client requires attention, because 3-rd party email-clients do not run in AppContainer and allow running unsafe attachments. Using a 3-rd party unpacker (like 7-Zip) is usually not fully compatible with SmartScreen (the file MOTW is lost), etc.
+The last point is crucial. Changing your web browser from Edge to Chrome requires installing third-party software or extensions to achieve the same level of security*. Not only have you introduced a second point of attack by having two web browsers installed, but enabling SmartScreen in Chrome requires using even more extensions[2] that can't even fully use SmartScreen[2]. 3rd-party email clients can't run in AppContainers and allow running unsafe attachments. Using a 3rd-party unpacker (7-Zip) is only partially compatible with SmartScreen (the file MOTW is lost)[3] or may lack other anti-exploit techniques[4].
+
+
+[1](https://chrome.google.com/webstore/detail/microsoft-defender-browse/bkbeeeffjjeopflfhgeknacdieedcoml?hl=en-US)
+[2](https://demo.smartscreen.msft.net/)
+[3](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-3#post-800003)
+[4](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-6#post-861699)
