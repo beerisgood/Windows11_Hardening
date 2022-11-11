@@ -1,0 +1,9 @@
+By default, Windows hides standard file types. 
+
+For example, "SecureFile.exe" will show as "SecureFile" in explorer or on your desktop, "PersonalImage.png" will show as "PersonalImage", and so forth.
+
+If malware names itself "PersonalImage.png.exe", what do you think will happen?
+Windows will only show you "PersonalImage.png". But when you try to open this 'image', malware will start and run on your machine.
+
+Therefor, it would be best if you showed hidden file extensions to mitigate this potential problem.
+See: https://support.microsoft.com/en-us/windows/common-file-name-extensions-in-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01

@@ -1,7 +1,8 @@
-Go to Defender Exploit Guard settings and enable both
-ASLR mandatory
-&
-Bottom-up-ASLR
+Open Windows Security -> App & browser control -> Exploit Protection Settings and set the following to On by default:
 
-Info:
-https://docs.microsoft.com/en-us/windows/security/threat-protection/overview-of-threat-mitigations-in-windows-10#address-space-layout-randomization
+-Force randomization for images (Mandatory ALSR)
+-Randomize memory allocations (Bottom-up ASLR)
+-High-entropy ALSR
+
+
+See: https://docs.microsoft.com/en-us/windows/security/threat-protection/overview-of-threat-mitigations-in-windows-10#address-space-layout-randomization
