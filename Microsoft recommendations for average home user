@@ -14,15 +14,27 @@ Microsoft recommendations for the average home user, following directly from the
 10. Back up your personal files.
 
 For above-average users:  
--   Prepare the Standard User Accounts for children and inexperienced family members if you understand how SUA works (especially when installing the software with Admin rights).
+-   Prepare the Standard User Accounts for children and inexperienced family members if you understand how SUA works (especially when installing the software with
+    Admin rights).
 -   Avoid installing 3rd-party real-time security software.
 -   Prefer installing popular & digitally signed applications.
--   Use Windows built-in tools to clean up the system. Refrain from using 3rd-party enhancing/cleanup tools because you will not see a difference, and these tools can cause hidden problems.
+-   Use Windows built-in tools to clean up the system. Refrain from using 3rd-party enhancing/cleanup tools because you will not see a difference, and these tools can
+    cause hidden problems.
 -   Do not be paranoid about Microsoft telemetry.
 -   If you change the default Windows setup, ensure that changes make the OS more secure, not less.
 
-The last point is crucial. Changing your web browser from Edge to Chrome requires installing third-party software or extensions to achieve the same level of security*. Not only have you introduced a second point of attack by having two web browsers installed, but enabling SmartScreen in Chrome requires using even more extensions[2] that can't even fully use SmartScreen[2]. 3rd-party email clients can't run in AppContainers and allow running unsafe attachments. Using a 3rd-party unpacker (7-Zip) is only partially compatible with SmartScreen (the file MOTW is lost)[3] or may lack other anti-exploit techniques[4].
-With the above in mind, installing a 3rd-party antivirus can also introduce needless attack surfaces for no benefit. Microsoft Defender is running on nearly every Windows device on the planet. Let's say you release a new virus into the world that bricks people's computers. After about 1,000 users report the malware, it should start being blocked by your antivirus. If you're using something like ESET Security or Comodo Antivirus, how long do you think it will take for 1000 users to be infected? Depending on where the virus spreads, it could take days or even weeks before it is detected and added to the malware list. Microsoft Defender, on the other hand, will be able to detect the virus with nearly every machine that runs Windows, simply because Microsoft Defender IS on every device that runs windows. Outside of the tremendous amount of users that use Microsoft Defender, Defender is also free, ad-free, and doesn't annoy the user with popups to purchase "secure shredders" or a VPN service like many other 3rd-party antiviruses.
+The last point is crucial. Changing your web browser from Edge to Chrome requires installing third-party software or extensions to achieve the same level of security*.
+Not only have you introduced a second point of attack by having two web browsers installed, but enabling SmartScreen in Chrome requires using even more extensions[2]
+that can't even fully use SmartScreen[2]. 3rd-party email clients can't run in AppContainers and allow running unsafe attachments. Using a 3rd-party unpacker (7-Zip)
+is only partially compatible with SmartScreen (the file MOTW is lost)[3] or may lack other anti-exploit techniques[4].
+
+With the above in mind, installing a 3rd-party antivirus can also introduce needless attack surfaces for no benefit. Microsoft Defender is running on nearly every
+Windows device on the planet. Let's say you release a new virus into the world that bricks people's computers. After about 1,000 users report the malware, it should
+start being blocked by your antivirus. If you're using something like ESET Security or Comodo Antivirus, how long do you think it will take for 1000 users to be
+infected? Depending on where the virus spreads, it could take days or even weeks before it is detected and added to the malware list. Microsoft Defender, on the other
+hand, will be able to detect the virus with nearly every machine that runs Windows, simply because Microsoft Defender IS on every device that runs windows. Outside of
+the tremendous amount of users that use Microsoft Defender, Defender is also free, ad-free, and doesn't annoy the user with popups to purchase "secure file shredders"
+r VPN services like many other 3rd-party antiviruses.
 
 [1](https://chrome.google.com/webstore/detail/microsoft-defender-browse/bkbeeeffjjeopflfhgeknacdieedcoml?hl=en-US)
 [2](https://demo.smartscreen.msft.net/)
