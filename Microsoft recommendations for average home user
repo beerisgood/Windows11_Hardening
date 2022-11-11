@@ -15,7 +15,7 @@ Microsoft recommendations for the average home user, following directly from the
 
 For above-average users:  
 -   Prepare the Standard User Accounts for children and inexperienced family members if you understand how SUA works (especially when installing the software with Admin rights).
--   Avoid installing 3rd-party real-time security software (defender is usually enough).
+-   Avoid installing 3rd-party real-time security software.
 -   Prefer installing popular & digitally signed applications.
 -   Use Windows built-in tools to clean up the system. Refrain from using 3rd-party enhancing/cleanup tools because you will not see a difference, and these tools can cause hidden problems.
 -   Do not be paranoid about Microsoft telemetry.
