@@ -1,10 +1,2 @@
-This registry setting config your UAC (User Account Control) to maximum level.
-
-In Windows startmenu search for
-UAC
-and move the slider to top.
-
-No restart required.
-
-Info:
-https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-group-policy-and-registry-key-settings#registry-key-settings
+Open the Windows Start menu, search for "UAC", and drag the slider to the top.
+See: https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-group-policy-and-registry-key-settings#registry-key-settings
