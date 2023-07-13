@@ -1,9 +1,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Windows11_Hardening?label=last%20update%3A&style=flat-square) ![recommend Windows version](https://img.shields.io/badge/for%20Windows:-22H2-blue)
 
-While [*Hard_Configurator*](https://github.com/AndyFul/Hard_Configurator) will save a lot of your time, it's currently not compatible with Windows 11 22H2.
-
-[*ConfigureDefender*](https://github.com/AndyFul/ConfigureDefender) (part of above) can be used and works with 22H2.
-
+[*Hard_Configurator*](https://github.com/AndyFul/Hard_Configurator) is a GUI application to configure various Windows security features and apply recommended defaults.
 
 # Requirements
 - [x] Minimum standards for a highly secure Windows device ([Secure-Core](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure))
