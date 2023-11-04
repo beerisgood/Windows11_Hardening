@@ -84,6 +84,7 @@
 - Use [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon) (tool from Microsoft) with [this filter](https://github.com/CERTCC/privesc) for finding privilege escalation vulnerabilities in Windows
 - Check out [winchecksec](https://github.com/trailofbits/winchecksec) to perform static detection of common Windows security features
 - Sysmon [configuration](https://github.com/SwiftOnSecurity/sysmon-config) file template with default high-quality event tracing
+- check your installation against [Deprecated features](https://learn.microsoft.com/en-us/windows/whats-new/deprecated-features#deprecated-features)
 
 <br />
 
