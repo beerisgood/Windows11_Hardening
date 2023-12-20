@@ -66,6 +66,7 @@
 - [ ] [Video](https://www.youtube.com/watch?v=e3TGejjVyog) from Matt Soseman: Investigating a Fileless Attack w/ Microsoft Defender ATP & Exploit Protection
 - [ ] [Video](https://www.youtube.com/watch?v=CcN7EEpOgNw) from Matt Soseman: What is the Microsoft Cybersecurity Reference Architectures (MCRA) and why should I care?
 - [ ] Microsoft Defender ATP [secure score](https://malwaretips.com/threads/configuredefender-utility-for-windows-10.79039/page-20#post-809699)
+- [ ] Microsoft Edge [for Business](https://www.microsoft.com/en-us/edge/business?form=MA13FJ)
 <br />
 
 ###### Test Config
