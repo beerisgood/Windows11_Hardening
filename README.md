@@ -140,3 +140,4 @@
 * [Video](https://www.youtube.com/watch?v=OFEdoCWZjaI) from Matt Soseman: Hardware Isolated Browsing w/ Microsoft Defender Application Guard
 * what is meant by "[User Space](https://malwaretips.com/threads/run-by-smartscreen-utility.65145/#post-561364)"
 * what the feature "Allow apps from the store only" [does](https://malwaretips.com/threads/use-windows-10-build-in-anti-execution-options.85477/#post-752441)
+* [Breaking](https://www.youtube.com/watch?v=wTl4vEednkQ) Bitlocker - Bypassing the Windows Disk Encryption / [more](https://github.com/Wack0/bitlocker-attacks) BitLocker Attacks
