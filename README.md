@@ -142,4 +142,3 @@
 * what the feature "Allow apps from the store only" [does](https://malwaretips.com/threads/use-windows-10-build-in-anti-execution-options.85477/#post-752441)
 * [Breaking](https://www.youtube.com/watch?v=wTl4vEednkQ) Bitlocker - Bypassing the Windows Disk Encryption / [more](https://github.com/Wack0/bitlocker-attacks) BitLocker Attacks
 * Zammis Clark: An Evil Maid's Dream - Windows Boot Security was Broken [Anyway](https://www.youtube.com/watch?v=U02ClZS8hqw)
-* Breaking Bitlocker: Bypassing the Windows Disk Encryption - [using](https://www.youtube.com/watch?v=wTl4vEednkQ) less than $10 of equipment
