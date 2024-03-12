@@ -41,6 +41,7 @@
 - [x] [Harden OneDrive](https://malwaretips.com/threads/hard_configurator-windows-hardening-configurator.66416/page-28#post-743486) with Windows Controlled Folder Access ([CFA](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/controlled-folders?view=o365-worldwide) aka Ransomware Protection)
 - [x] Avoid old file systems like FAT32 that [do not preserve Alternative NTFS Streams](https://malwaretips.com/threads/how-to-harden-my-system-against-usb-spreading-malware.98442/page-2#post-859762) (where Mark Of The Web is skipped)
 - [x] While DNS encryption [isn't perfect](https://madaidans-insecurities.github.io/encrypted-dns.html) both [Quad9](https://www.quad9.net) and [Cloudflare](https://developers.cloudflare.com/1.1.1.1/setup/) are recommend. [AdGuard](https://adguard-dns.io) and [NextDNS](https://nextdns.io/) are another, but some users report problems like false positive filtering, stability/performance issues.
+- [x] instead of passwords, use [Passkeys](https://support.microsoft.com/windows/passkeys-in-windows-301c8944-5ea2-452b-9886-97e4d2ef4422)
 
 ### Further Hardening
 - [ ] Specify the [cloud-delivered protection level](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/specify-cloud-protection-level-microsoft-defender-antivirus?view=o365-worldwide#use-group-policy-to-specify-the-level-of-cloud-delivered-protection)
