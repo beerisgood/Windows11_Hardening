@@ -144,3 +144,4 @@
 * [Breaking](https://www.youtube.com/watch?v=wTl4vEednkQ) Bitlocker - Bypassing the Windows Disk Encryption / [more](https://github.com/Wack0/bitlocker-attacks) BitLocker Attacks
 * Zammis Clark: An Evil Maid's Dream - Windows Boot Security was Broken [Anyway](https://www.youtube.com/watch?v=U02ClZS8hqw)
 * [Harden](https://github.com/HotCakeX/Harden-Windows-Security) Windows Safely
+* inside the Copilot+ [Recall disaster](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
