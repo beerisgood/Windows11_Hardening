@@ -145,3 +145,4 @@
 * Zammis Clark: An Evil Maid's Dream - Windows Boot Security was Broken [Anyway](https://www.youtube.com/watch?v=U02ClZS8hqw)
 * [Harden](https://github.com/HotCakeX/Harden-Windows-Security) Windows Safely
 * inside the Copilot+ [Recall disaster](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
+* help and ideas [for](https://schneegans.de/windows/unattend-generator/) answer files (typically named unattend.xml or autounattend.xml)
