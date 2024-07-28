@@ -146,3 +146,4 @@
 * [Harden](https://github.com/HotCakeX/Harden-Windows-Security) Windows Safely
 * inside the Copilot+ [Recall disaster](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
 * help and ideas [for](https://schneegans.de/windows/unattend-generator/) answer files (typically named unattend.xml or autounattend.xml)
+* Windows Security best practices [for](https://www.microsoft.com/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/) integrating and managing security tools
