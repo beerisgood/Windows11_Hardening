@@ -148,3 +148,4 @@
 * help and ideas [for](https://schneegans.de/windows/unattend-generator/) answer files (typically named unattend.xml or autounattend.xml)
 * Windows Security best practices [for](https://www.microsoft.com/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/) integrating and managing security tools
 * Windows Defender Application Control (WDAC) [Policy Wizard](https://webapp-wdac-wizard.azurewebsites.net)
+* a [good](https://github.com/HotCakeX/Harden-Windows-Security) Harden-Windows-Security Github repository
