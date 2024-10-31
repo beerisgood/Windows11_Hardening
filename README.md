@@ -1,6 +1,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Windows11_Hardening?label=last%20update%3A&style=flat-square) ![recommend Windows version](https://img.shields.io/badge/for%20Windows:-24H2-blue)
 
-[*Hard_Configurator*](https://github.com/AndyFul/Hard_Configurator) is a GUI application to configure various Windows security features and apply recommended defaults.
+[Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) is a GUI application to configure various Windows security features and apply recommended defaults.
+<br/>
+[*Harden-Windows-Security*](https://github.com/HotCakeX/Harden-Windows-Security) provides even more hardening and is better maintained.
 
 # Requirements
 - [x] Minimum standards for a highly secure Windows device ([Secure-Core](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure))
@@ -148,4 +150,3 @@
 * help and ideas [for](https://schneegans.de/windows/unattend-generator/) answer files (typically named unattend.xml or autounattend.xml)
 * Windows Security best practices [for](https://www.microsoft.com/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/) integrating and managing security tools
 * Windows Defender Application Control (WDAC) [Policy Wizard](https://webapp-wdac-wizard.azurewebsites.net)
-* a [good](https://github.com/HotCakeX/Harden-Windows-Security) Harden-Windows-Security Github repository
