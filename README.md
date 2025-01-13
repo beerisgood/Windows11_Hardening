@@ -54,7 +54,7 @@
 - [ ] See [Hardware and Firmware Security Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/tree/master/guidance) for [Windows](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/tree/master/guidance#win) and [AMD CPUs](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/tree/master/guidance#54-amd) 
 - [ ] Deploy [Windows Security Baselines](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/windows-security-baselines) and keep it [up-to-date](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines)
 - [ ] Use [Mandatory Integrity Control](https://learn.microsoft.com/en-us/windows/win32/secauthz/mandatory-integrity-control)
-- [ ] Use [Security-ADMX custom template](https://github.com/Harvester57/Security-ADMX) focused on hardening Windows 10 systems
+- [ ] Use [Security-ADMX custom template](https://github.com/Harvester57/Security-ADMX) focused on hardening Windows systems
 
 ### Enterprises
 - [ ] [Application Control](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/windows-defender-application-control) (WDAC) - Microsoft's [Policy Wizard](https://github.com/MicrosoftDocs/WDAC-Toolkit/blob/master/WDAC-Policy-Wizard/docs/getting-started/install-process.md) will help a lot
