@@ -55,6 +55,7 @@
 - [ ] Deploy [Windows Security Baselines](https://learn.microsoft.com/windows/security/threat-protection/windows-security-configuration-framework/windows-security-baselines) and keep it [up-to-date](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines)
 - [ ] Use [Mandatory Integrity Control](https://learn.microsoft.com/windows/win32/secauthz/mandatory-integrity-control)
 - [ ] Use [Security-ADMX custom template](https://github.com/Harvester57/Security-ADMX) focused on hardening Windows systems
+- [ ] you may disable Hyper-Threading/Simultaneous Multithreading (SMT) to fix [Microarchitectural Data Sampling](https://en.wikipedia.org/wiki/Microarchitectural_Data_Sampling) (MDS)/ [Transient execution CPU vulnerability](https://en.wikipedia.org/wiki/Transient_execution_CPU_vulnerability)/ [Side-channel attacks](https://en.wikipedia.org/wiki/Side-channel_attack) in your BIOS/ uEFI
 
 ### Enterprises
 - [ ] [Application Control](https://learn.microsoft.com/windows/security/threat-protection/windows-defender-application-control/windows-defender-application-control) (WDAC) - Microsoft's [Policy Wizard](https://github.com/MicrosoftDocs/WDAC-Toolkit/blob/master/WDAC-Policy-Wizard/docs/getting-started/install-process.md) will help a lot
